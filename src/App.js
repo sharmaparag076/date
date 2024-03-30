@@ -10,7 +10,7 @@ function App() {
     x.style.left = Math.random() * 90 + "vw";
   }
   const handleYes = () => {
-    document.getElementsByTagName('h1')[0].textContent = "Congrats you are mine";
+    document.getElementsByTagName('h1')[0].textContent = "Congratulations,Now Can i call you are mine ?";
     console.log("yes");
   }
   return (
